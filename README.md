@@ -2,7 +2,7 @@
 
 ### Backend: Spring
 
-### Database: PostgreSQL, Redis
+### Database: PostgreSQL, MySQL, Redis
 
 ### Utils: Docker, Maven
 
