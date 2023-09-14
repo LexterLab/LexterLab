@@ -1,4 +1,10 @@
-### Tech Stack: Spring, PostgreSQL, Redis, Docker, Maven
+## Tech Stack: 
+
+### Backend: Spring
+
+### Database: PostgreSQL, Redis
+
+### Utils: Docker, Maven
 
 You can check my work at: https://aparpedu.github.io/Home/
 
