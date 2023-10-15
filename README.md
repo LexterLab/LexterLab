@@ -1,6 +1,6 @@
 ## Tech Stack: 
 
-+ <b>Backend:</b> Spring
++ <b>Backend:</b> Java, Spring
 
 + <b>Database:</b> PostgreSQL, MySQL, Redis
 
