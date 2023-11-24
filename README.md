@@ -8,7 +8,7 @@
 
 You can check my work at: https://aparpedu.github.io/
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aparpEdu&size_weight=0.5&count_weight=0.5&theme=dracula&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aparpEdu&size_weight=0.5&count_weight=0.5&theme=dracula&layout=compact&hide=Batchfile)
 <!--
 **aparpEdu/aparpEdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
