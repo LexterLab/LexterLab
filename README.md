@@ -8,6 +8,8 @@
 
 You can check my work at: https://aparpedu.github.io/
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aparpEdu)](https://git.io/streak-stats)
+
 <!--
 **aparpEdu/aparpEdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
