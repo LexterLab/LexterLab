@@ -2,7 +2,10 @@
 
 <img src="https://www.svgrepo.com/show/452234/java.svg" alt="Java Logo" width="50"  title="Java" > <img src="https://www.svgrepo.com/show/376350/spring.svg" alt="Java Logo" width="50"  title="Spring" >  <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="50"> <img src="https://www.svgrepo.com/show/354272/redis.svg" alt="Redis" title="Redis" width="50"><img src="https://www.svgrepo.com/show/373557/docker2.svg" title="Docker" alt="Docker" width="55">
 
-You can check my work at: [https://lexterlab.github.io/](https://lexterlab.github.io/)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LexterLab&size_weight=0.5&count_weight=0.5&theme=dracula&layout=compact&hide=Batchfile,CMake,CSS,HTML,Dockerfile,Shell,PLpgSQL)
 
+You can check my work at: [https://lexterlab.github.io/](https://lexterlab.github.io/)
+
+Currently working on -> [Cuisine Ranker Backend](https://github.com/LexterLab/CuisineRankerBE), [Cuisine Ranker Frontend](https://github.com/LexterLab/CuisineRankerFE)
