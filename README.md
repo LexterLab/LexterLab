@@ -1,25 +1,8 @@
 ## Tech Stack: 
 
-+ <b>Backend:</b> Java, Spring
-
-+ <b>Database:</b> PostgreSQL, MySQL, Redis
-
-+ <b>Utils:</b> Docker, Maven
+<img src="https://www.svgrepo.com/show/452234/java.svg" alt="Java Logo" width="50"  title="Java" > <img src="https://www.svgrepo.com/show/376350/spring.svg" alt="Java Logo" width="50"  title="Spring" >  <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="50"> <img src="https://www.svgrepo.com/show/354272/redis.svg" alt="Redis" title="Redis" width="50"><img src="https://www.svgrepo.com/show/373557/docker2.svg" title="Docker" alt="Docker" width="55">
 
 You can check my work at: [https://lexterlab.github.io/](https://lexterlab.github.io/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LexterLab&size_weight=0.5&count_weight=0.5&theme=dracula&layout=compact&hide=Batchfile,CMake,CSS,HTML,Dockerfile,Shell,PLpgSQL)
-<!--
-**aparpEdu/aparpEdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
