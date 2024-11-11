@@ -6,6 +6,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LexterLab&size_weight=0.5&count_weight=0.5&theme=dracula&layout=compact&hide=Batchfile,CMake,CSS,HTML,Dockerfile,Shell,PLpgSQL)
 
-You can check my work at: [https://lexterlab.github.io/](https://lexterlab.github.io/)
 
 Currently working on -> [Cuisine Ranker Backend](https://github.com/LexterLab/CuisineRankerBE), [Cuisine Ranker Frontend](https://github.com/LexterLab/CuisineRankerFE)
