@@ -1,6 +1,6 @@
 ## Tech Stack: 
 
-<img src="https://www.svgrepo.com/show/452234/java.svg" alt="Java Logo" width="50"  title="Java" > <img src="https://www.svgrepo.com/show/376350/spring.svg" alt="Java Logo" width="50"  title="Spring" >  <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="50"> <img src="https://www.svgrepo.com/show/354272/redis.svg" alt="Redis" title="Redis" width="50"><img src="https://www.svgrepo.com/show/373557/docker2.svg" title="Docker" alt="Docker" width="55">
+<img src="https://www.svgrepo.com/show/452234/java.svg" alt="Java Logo" width="50"  title="Java" > <img src="https://www.svgrepo.com/show/373728/kotlin.svg" alt="Kotlin" title="Kotlin" width="50"> <img src="https://www.svgrepo.com/show/376350/spring.svg" alt="Java Logo" width="50"  title="Spring" >  <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="50"> <img src="https://www.svgrepo.com/show/354272/redis.svg" alt="Redis" title="Redis" width="50"><img src="https://www.svgrepo.com/show/373557/docker2.svg" title="Docker" alt="Docker" width="55">
 
 
 
